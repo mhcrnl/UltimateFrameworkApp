@@ -1,0 +1,9 @@
+description "First application in U++ framework.\377";
+
+uses
+	CtrlLib;
+
+file
+	app.tpp,
+	main.cpp;
+
