@@ -1,0 +1,11 @@
+uses
+	CtrlLib;
+
+file
+	ConvertorCtoF.h,
+	main.cpp,
+	ConvertorCtoF.lay;
+
+mainconfig
+	"" = "GUI";
+

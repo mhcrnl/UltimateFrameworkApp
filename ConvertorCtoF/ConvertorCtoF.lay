@@ -1,0 +1,8 @@
+LAYOUT(ConvertorCtoFLayout, 522, 240)
+	ITEM(Label, dv___0, SetLabel(t_("Introduceti temperatura Celsius:")).LeftPosZ(47, 180).TopPosZ(57, 19))
+	ITEM(EditInt, celsius, LeftPosZ(249, 167).TopPosZ(55, 19))
+	ITEM(Label, dv___2, SetLabel(t_("Temperatura Fahrenheit :")).LeftPosZ(47, 186).TopPosZ(86, 19))
+	ITEM(Label, fahrenheit, LeftPosZ(251, 167).TopPosZ(85, 19))
+	ITEM(StaticText, dv___4, SetText(t_("Convertor de temperatura din celsius in fahrenheit realizat cu framework-ul Ultimate++")).LeftPosZ(55, 442).TopPosZ(19, 19))
+END_LAYOUT
+
